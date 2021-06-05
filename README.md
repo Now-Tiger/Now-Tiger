@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Now-Tiger
+- 👋 Hi, This is Swapnil !
 - 👀 I’m interested in Data sciecnce and coding culture.
 - 🌱 I’m currently learning data science with python.
 - 💞️ I’m looking to collaborate on industrial levels.
