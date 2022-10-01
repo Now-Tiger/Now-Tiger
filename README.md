@@ -1,3 +1,7 @@
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+
 - ✋🏻 Hi, This is ___Swapnil___ !
 - 👀 I’m interested in Data science and coding culture.
 - 🌱 I’m a Data Science practitioner.
