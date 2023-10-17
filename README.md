@@ -9,9 +9,8 @@
 ![atari](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
-- ✋🏻 Hi, This is ___Swapnil___, you can call me ___Tiger___ 🐾
-- 👀 I’m interested in Data science and Machine Learning.
-- 🙋🏻‍♂️ I’m looking to collaborate on industrial levels.
-- 📩 How to reach me -> ___swapnil.narwade3@gmail.com___
+Hello 👋🏻
+How are you
+![](<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/xT9IgG50Fb7Mi0prBC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-wave-xT9IgG50Fb7Mi0prBC">via GIPHY</a></p>)
 
 ![](https://komarev.com/ghpvc/?username=Now-Tiger&color=ff69b4)
