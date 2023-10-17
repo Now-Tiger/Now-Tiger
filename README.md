@@ -15,7 +15,7 @@
 > Capable of creating, developing, testing and deploying highly adaptive diverse services to translate business and functional qualifications into tangible deliverables.
 
 > [!NOTE]
-> Open to work or collaborate on Data Science, Machine Learning projects.
+> Open to work/collaborate on __Data Science, ML projects__.
 
 <br>
 
