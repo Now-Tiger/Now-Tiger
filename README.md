@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/swapnil-narwade-6373b4193/">Linkedln</a>
+    <a href="https://www.linkedin.com/in/now-tiger/">Linkedln</a>
     <a> 🚀 </a>
     <a href="https://www.instagram.com/1.swapnil/">Instagram</a>
   </samp> 
