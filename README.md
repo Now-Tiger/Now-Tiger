@@ -19,4 +19,9 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Now-Tiger&color=ff69b4)
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Now-Tiger">
+</a>
+<a href="https://github.com/Now-Tiger?tab=followers">
+    <img src="https://img.shields.io/github/followers/Now-Tiger?label=Followers&style=social" alt="GitHub Badge">
+</a>
