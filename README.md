@@ -6,7 +6,15 @@
   </samp> 
 </p>
 
-![atari](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<!-- ![atari](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
+<div>
+    <center>
+    <p><em>The sound of the Gion Shoja bells echoes the impermanence of all things; the color of the sala flowers reveals the truth that the prosperous must decline. <b>However, only we are the exception</em></b></p>
+    </center>
+</div>
+<div>
+    <img width="1000"src="https://media1.tenor.com/m/9MeiF3cJDqYAAAAC/nobara-face-jujutsu-kaisen.gif">
+</div>
 
 
 > [!IMPORTANT]  
@@ -22,6 +30,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Now-Tiger">
 </a>
-<a href="https://github.com/Now-Tiger?tab=followers">
-    <img src="https://img.shields.io/github/followers/Now-Tiger?label=Followers&style=social" alt="GitHub Badge">
-</a>
+
+
