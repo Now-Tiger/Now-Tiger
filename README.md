@@ -9,7 +9,7 @@
 <!-- ![atari](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
 <div>
     <center>
-    <p><em>The sound of the Gion Shoja bells echoes the impermanence of all things; the color of the sala flowers reveals the truth that the prosperous must decline. <b>However, only we are the exception</em></b></p>
+    <p><em>The bells of the Gion monastery in India echo with the warning that all things are impermanent. The blossoms of the sala trees teach us through their hues that what flourishes must fade. <b>However! We are the exception.</em></b></p>
     </center>
 </div>
 <div>
@@ -30,5 +30,3 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Now-Tiger">
 </a>
-
-
