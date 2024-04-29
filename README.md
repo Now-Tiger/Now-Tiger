@@ -16,6 +16,16 @@
     <img width="1000"src="https://media1.tenor.com/m/9MeiF3cJDqYAAAAC/nobara-face-jujutsu-kaisen.gif">
 </div>
 
+<section>
+    <main>
+        <h2>Online Articles</h2>
+        <ul>
+            <li><a href="https://tiger-up.notion.site/User-authentication-using-cookies-and-JWT-d2dd31d340ed43f7ab79d9253a71c60f">User Authentication using JWT & Cookies</a></li>
+            <li><a href="https://medium.com/@swapnil.narwade_/typescript-express-rest-api-017a1d2986f4">Beginner's guide to TypeScript & Express Rest API: Medium Article</a></li>
+            <li><a href="https://tiger-up.notion.site/Validations-With-Zod-aecbd1ccaa9f456c982bfad93878444b">Zod in REST APIs</a></li>
+        </ul>
+    </main>
+</section>
 
 > [!IMPORTANT]  
 > __Data Scientist__ with 6+ months of industry-level experience.<br>
