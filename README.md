@@ -22,7 +22,7 @@
         <ul>
             <li><a href="https://tigerhere.notion.site/User-authentication-using-cookies-and-JWT-d2dd31d340ed43f7ab79d9253a71c60f">User Authentication using JWT & Cookies</a></li>
             <li><a href="https://medium.com/@swapnil.narwade_/typescript-express-rest-api-017a1d2986f4">Beginner's guide to TypeScript & Express Rest API: Medium Article</a></li>
-            <li><a href="https://tigerhere.notion.site/Validations-With-Zod-aecbd1ccaa9f456c982bfad93878444b">Zod in REST APIs</a></li>
+            <li><a href="https://tigerhere.notion.site/Validations-With-Zod-aecbd1ccaa9f456c982bfad93878444b">Schema Validations using Zod</a></li>
             <li><a href="https://tigerhere.notion.site/Deploy-API-on-Serverless-Functions-d0e63715190a46128453e28d65a21697?pvs=74">Cloudflare x Hono: Deploy REST API on Serverless Functions</a></li>
         </ul>
     </main>
