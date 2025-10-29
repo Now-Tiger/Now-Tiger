@@ -30,9 +30,9 @@
 <br>
 
 > [!IMPORTANT]  
-> __Data Scientist__ with 6+ months of industry-level experience.<br>
+> __Data Scientist__ with close to a year of industry-level experience.<br>
 > Robust quantitative analysis and statistical modeling skills. Proficient in predictive modeling, data processing, and data mining algorithms, as well as scripting languages, including Python and Java.
-> Can create, develop, test, and deploy highly adaptive diverse services to translate business and functional qualifications into tangible deliverables.
+> Can create, develop, test, and deploy highly adaptive, diverse services to translate business and functional qualifications into tangible deliverables.
 
 > [!NOTE]
 > Open to work/collaborate on __Data Science, ML projects__.
